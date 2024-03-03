@@ -1,1 +1,1 @@
-# SQLUlsuBot
+# education-bot
